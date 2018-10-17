@@ -1,2 +1,3 @@
-# Product-review-analysis-Spark-Mongo
-Performing highest-review analysis on Amazon dataset using Apache Spark and MongoDB
+# Product Review Analysi Using Spark-Mongo integration.
+Performing highest-review analysis on [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/links.html) using Apache Spark and MongoDB.
+
